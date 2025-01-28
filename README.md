@@ -22,7 +22,7 @@ Make sure you have Python installed. 🐍
 2. Open a terminal and navigate to the folder. 🖥️  
 3. Run the script using:
    ```bash
-   python password_generator.py
+   python password-generator.py
    ```
 
 ---
